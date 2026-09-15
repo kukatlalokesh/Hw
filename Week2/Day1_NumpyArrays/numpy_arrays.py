@@ -4,7 +4,7 @@ import numpy as np
 one_d_array = np.array([10, 20, 30, 40, 50])
 
 # Create a 2D NumPy array
- two_d_array = np.array([[1, 2, 3], [4, 5, 6]])
+two_d_array = np.array([[1, 2, 3], [4, 5, 6]])
 
 print("1D Array:")
 print(one_d_array)
